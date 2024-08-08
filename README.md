@@ -52,7 +52,7 @@ The third phase is data processing, which involves identifying and eliminating i
 
 ![image](https://github.com/user-attachments/assets/250cf593-96e0-41aa-8a55-7c4366a5f81c)
 
-![image](https://github.com/user-attachments/assets/ac4dc59c-17f9-4091-9136-bbd8f7d30183)
+![image](https://github.com/user-attachments/assets/41e95b10-65d9-427a-9a31-3b52f0ede973)
 
 
 During this phase,
@@ -68,6 +68,13 @@ Before cleaning 5 719 877 rows | After cleaning 4 243 400 rows
 
 ## Analyze and Share
 The fourth phase is data analysis, which involves deriving insights from the cleaned data to address our business problem. This phase was conducted using R for data manipulation and Tableau for visualization.
+
+Here are screenshots of my analysis. I extracted and manipulated relevant data from multiple tables using R and visualized the results in Tableau.
+
+![image](https://github.com/user-attachments/assets/f900ccb0-a109-4837-955c-1b74487862ed)
+
+![image](https://github.com/user-attachments/assets/90b2442a-c43c-46c0-9e47-55b6718b503c)
+
 
 [R Source Code]()  
 Data Visualization: [Tableau](https://public.tableau.com/views/CyclisticProject_17230548837230/Dashboard2?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)  
