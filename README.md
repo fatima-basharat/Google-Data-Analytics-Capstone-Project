@@ -78,10 +78,10 @@ Here are screenshots of my analysis. I extracted and manipulated relevant data f
 
 [R Source Code]()  
 Data Visualization: [Tableau](https://public.tableau.com/views/CyclisticProject_17230548837230/Dashboard2?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)  
-The data is stored appropriately and is now prepared for analysis. I queried multiple relevant tables for the analysis and visualized them in Tableau.  
+ 
 The analysis question is: How do annual members and casual riders use Cyclistic bikes differently?  
 
-First of all, member and casual riders are compared by the type of bikes they are using.  
+To begin, member and casual riders are compared by the type of bikes they are using.  
 
 ![image](https://github.com/user-attachments/assets/d8b048fb-30df-49bb-bc90-5b96c0a162fb)
 
