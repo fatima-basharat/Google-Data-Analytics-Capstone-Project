@@ -40,7 +40,7 @@ In this project I used R to combine the various datasets into one dataset and cl
 Reason:  
 A worksheet can only have 1,048,576 rows in Microsoft Excel because of its inability to manage large amounts of data. Because the Cyclistic dataset has more than 5.6 million rows, it is essential to use a programming language like R that supports huge volumes of data.
 
-![image](https://github.com/user-attachments/assets/481c1a5f-ddbb-40f9-b519-ea3e6d00b46b)
+![image](https://github.com/user-attachments/assets/99d2b1f8-7822-4ed7-a8cc-11e919f2daf9)
 
 Here is a screenshoot of my data preparation. To begin, I imported the 12 csv files (1 for each month) into 12 data frames. Then I merged the 12 data frames into 1 for the whole year. After I removed the individual 12 month data frames to clear up space in the environment (RAM management). 
 
