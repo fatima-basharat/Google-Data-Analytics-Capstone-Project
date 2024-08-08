@@ -48,7 +48,7 @@ Here is a screenshoot of my data preparation. To begin, I imported the 12 csv fi
 The third phase is data processing, which involves identifying and eliminating inaccuracies, errors, and inconsistencies in the data to ensure it does not impact the resolution of our business problem.
 
 ### Data Cleaning
-[R Source Code]()
+[R Source Code](https://github.com/fatima-basharat/Google-Data-Analytics-Capstone-Project/blob/main/CyclisticProject.R)
 
 ![image](https://github.com/user-attachments/assets/250cf593-96e0-41aa-8a55-7c4366a5f81c)
 
@@ -76,7 +76,7 @@ Here are screenshots of my analysis. I extracted and manipulated relevant data f
 ![image](https://github.com/user-attachments/assets/90b2442a-c43c-46c0-9e47-55b6718b503c)
 
 
-[R Source Code]()  
+[R Source Code](https://github.com/fatima-basharat/Google-Data-Analytics-Capstone-Project/blob/main/CyclisticProject.R)  
 Data Visualization: [Tableau](https://public.tableau.com/views/CyclisticProject_17230548837230/Dashboard2?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)  
  
 The analysis question is: How do annual members and casual riders use Cyclistic bikes differently?  
