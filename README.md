@@ -83,14 +83,14 @@ The analysis question is: How do annual members and casual riders use Cyclistic 
 
 To begin, member and casual riders are compared by the type of bikes they are using.  
 
-<img src="https://github.com/user-attachments/assets/d8b048fb-30df-49bb-bc90-5b96c0a162fb" alt="image" width="100%"/>
+<img src="https://github.com/user-attachments/assets/d8b048fb-30df-49bb-bc90-5b96c0a162fb" alt="image" width="75%"/>
 
   
 The members make 64.5% of the total while remaining 35.5% constitutes casual riders. Each bike type chart shows percentage from the total. Most used bike is classic bike followed by the electric bike. Docked bikes are used the least by only casual riders. 
   
 Next the number of trips distributed by the months, days of the week and hours of the day are examined.  
 
-<img src="https://github.com/user-attachments/assets/b19e84b2-60dc-43f8-b1c4-c378d2fa6509" alt="image" width="100%"/>  
+<img src="https://github.com/user-attachments/assets/b19e84b2-60dc-43f8-b1c4-c378d2fa6509" alt="image" width="75%"/>  
   
 __Months:__ Regarding monthly trips, both casual riders and members show similar patterns, with higher trip volumes in the spring and summer and fewer trips during the winter. The difference between casual riders and members narrows most noticeably in July during the summer.   
 __Days of Week:__ When comparing the days of the week, casual riders tend to take more trips on weekends, whereas members show a decline in trips over the weekend compared to the other days.  
@@ -100,7 +100,7 @@ Based on these observations, it seems that members primarily use bikes for commu
   
 Ride duration of the trips are compared to find the differences in the behavior of casual and member riders.  
   
-<img src="https://github.com/user-attachments/assets/4f900bdf-9527-41d8-9131-41e85165b974" alt="image" width="100%"/>
+<img src="https://github.com/user-attachments/assets/4f900bdf-9527-41d8-9131-41e85165b974" alt="image" width="75%"/>
   
 Casual riders generally have longer rides compared to members. Unlike members, whose average ride length remains steady throughout the year, week, and day, casual riders' ride durations fluctuate. They tend to ride farther during the spring and summer, on weekends, and between 10 am and 2 pm, though their rides are shorter between 5 am and 8 am.
   
