@@ -40,7 +40,7 @@ In this project I used R to combine the various datasets into one dataset and cl
 Reason:  
 A worksheet can only have 1,048,576 rows in Microsoft Excel because of its inability to manage large amounts of data. Because the Cyclistic dataset has more than 5.6 million rows, it is essential to use a programming language like R that supports huge volumes of data.
 
-<img src="https://github.com/user-attachments/assets/99d2b1f8-7822-4ed7-a8cc-11e919f2daf9" alt="image" width="100%"/>
+<img src="https://github.com/user-attachments/assets/99d2b1f8-7822-4ed7-a8cc-11e919f2daf9" alt="image" width="75%"/>
 
 Here is a screenshoot of my data preparation. To begin, I imported the 12 csv files (1 for each month) into 12 data frames. Then I merged the 12 data frames into 1 for the whole year. After I removed the individual 12 month data frames to clear up space in the environment (RAM management). 
 
@@ -50,9 +50,9 @@ The third phase is data processing, which involves identifying and eliminating i
 ### Data Cleaning
 [R Source Code](https://github.com/fatima-basharat/Google-Data-Analytics-Capstone-Project/blob/main/CyclisticProject.R)
 
-<img src="https://github.com/user-attachments/assets/250cf593-96e0-41aa-8a55-7c4366a5f81c" alt="image" width="100%"/>
+<img src="https://github.com/user-attachments/assets/250cf593-96e0-41aa-8a55-7c4366a5f81c" alt="image" width="75%"/>
 
-<img src="https://github.com/user-attachments/assets/41e95b10-65d9-427a-9a31-3b52f0ede973" alt="image" width="100%"/>
+<img src="https://github.com/user-attachments/assets/41e95b10-65d9-427a-9a31-3b52f0ede973" alt="image" width="75%"/>
 
 
 During this phase,
@@ -71,9 +71,9 @@ The fourth phase is data analysis, which involves deriving insights from the cle
 
 Here are screenshots of my analysis. I extracted and manipulated relevant data from multiple tables using R and visualized the results in Tableau.
 
-<img src="https://github.com/user-attachments/assets/f900ccb0-a109-4837-955c-1b74487862ed" alt="image" width="100%"/>
+<img src="https://github.com/user-attachments/assets/f900ccb0-a109-4837-955c-1b74487862ed" alt="image" width="75%"/>
 
-<img src="https://github.com/user-attachments/assets/90b2442a-c43c-46c0-9e47-55b6718b503c" alt="image" width="100%"/>
+<img src="https://github.com/user-attachments/assets/90b2442a-c43c-46c0-9e47-55b6718b503c" alt="image" width="75%"/>
 
 
 [R Source Code](https://github.com/fatima-basharat/Google-Data-Analytics-Capstone-Project/blob/main/CyclisticProject.R)  
