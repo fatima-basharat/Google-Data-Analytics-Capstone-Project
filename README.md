@@ -40,7 +40,7 @@ In this project I used R to combine the various datasets into one dataset and cl
 Reason:  
 A worksheet can only have 1,048,576 rows in Microsoft Excel because of its inability to manage large amounts of data. Because the Cyclistic dataset has more than 5.6 million rows, it is essential to use a programming language like R that supports huge volumes of data.
 
-<img src="https://github.com/user-attachments/assets/99d2b1f8-7822-4ed7-a8cc-11e919f2daf9" alt="image" width="50%"/>
+<img src="https://github.com/user-attachments/assets/99d2b1f8-7822-4ed7-a8cc-11e919f2daf9" alt="image" width="100%"/>
 
 Here is a screenshoot of my data preparation. To begin, I imported the 12 csv files (1 for each month) into 12 data frames. Then I merged the 12 data frames into 1 for the whole year. After I removed the individual 12 month data frames to clear up space in the environment (RAM management). 
 
@@ -50,9 +50,9 @@ The third phase is data processing, which involves identifying and eliminating i
 ### Data Cleaning
 [R Source Code](https://github.com/fatima-basharat/Google-Data-Analytics-Capstone-Project/blob/main/CyclisticProject.R)
 
-<img src="https://github.com/user-attachments/assets/250cf593-96e0-41aa-8a55-7c4366a5f81c" alt="image" width="50%"/>
+<img src="https://github.com/user-attachments/assets/250cf593-96e0-41aa-8a55-7c4366a5f81c" alt="image" width="100%"/>
 
-<img src="https://github.com/user-attachments/assets/41e95b10-65d9-427a-9a31-3b52f0ede973" alt="image" width="50%"/>
+<img src="https://github.com/user-attachments/assets/41e95b10-65d9-427a-9a31-3b52f0ede973" alt="image" width="100%"/>
 
 
 During this phase,
@@ -71,9 +71,9 @@ The fourth phase is data analysis, which involves deriving insights from the cle
 
 Here are screenshots of my analysis. I extracted and manipulated relevant data from multiple tables using R and visualized the results in Tableau.
 
-<img src="https://github.com/user-attachments/assets/f900ccb0-a109-4837-955c-1b74487862ed" alt="image" width="50%"/>
+<img src="https://github.com/user-attachments/assets/f900ccb0-a109-4837-955c-1b74487862ed" alt="image" width="100%"/>
 
-<img src="https://github.com/user-attachments/assets/90b2442a-c43c-46c0-9e47-55b6718b503c" alt="image" width="50%"/>
+<img src="https://github.com/user-attachments/assets/90b2442a-c43c-46c0-9e47-55b6718b503c" alt="image" width="100%"/>
 
 
 [R Source Code](https://github.com/fatima-basharat/Google-Data-Analytics-Capstone-Project/blob/main/CyclisticProject.R)  
@@ -83,14 +83,14 @@ The analysis question is: How do annual members and casual riders use Cyclistic 
 
 To begin, member and casual riders are compared by the type of bikes they are using.  
 
-<img src="https://github.com/user-attachments/assets/d8b048fb-30df-49bb-bc90-5b96c0a162fb" alt="image" width="50%"/>
+<img src="https://github.com/user-attachments/assets/d8b048fb-30df-49bb-bc90-5b96c0a162fb" alt="image" width="100%"/>
 
   
 The members make 64.5% of the total while remaining 35.5% constitutes casual riders. Each bike type chart shows percentage from the total. Most used bike is classic bike followed by the electric bike. Docked bikes are used the least by only casual riders. 
   
 Next the number of trips distributed by the months, days of the week and hours of the day are examined.  
 
-<img src="https://github.com/user-attachments/assets/b19e84b2-60dc-43f8-b1c4-c378d2fa6509" alt="image" width="50%"/>  
+<img src="https://github.com/user-attachments/assets/b19e84b2-60dc-43f8-b1c4-c378d2fa6509" alt="image" width="100%"/>  
   
 __Months:__ Regarding monthly trips, both casual riders and members show similar patterns, with higher trip volumes in the spring and summer and fewer trips during the winter. The difference between casual riders and members narrows most noticeably in July during the summer.   
 __Days of Week:__ When comparing the days of the week, casual riders tend to take more trips on weekends, whereas members show a decline in trips over the weekend compared to the other days.  
@@ -100,7 +100,7 @@ Based on these observations, it seems that members primarily use bikes for commu
   
 Ride duration of the trips are compared to find the differences in the behavior of casual and member riders.  
   
-<img src="https://github.com/user-attachments/assets/4f900bdf-9527-41d8-9131-41e85165b974" alt="image" width="50%"/>
+<img src="https://github.com/user-attachments/assets/4f900bdf-9527-41d8-9131-41e85165b974" alt="image" width="100%"/>
   
 Casual riders generally have longer rides compared to members. Unlike members, whose average ride length remains steady throughout the year, week, and day, casual riders' ride durations fluctuate. They tend to ride farther during the spring and summer, on weekends, and between 10 am and 2 pm, though their rides are shorter between 5 am and 8 am.
   
